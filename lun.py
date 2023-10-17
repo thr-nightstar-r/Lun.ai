@@ -110,6 +110,3 @@ if __name__ == "__main__":
                 speak("Sorry bhai. I am not able to send this email") 
 
 #raj verma
-#abhishek kumar tripathi
-#Tripti Tiwari
-
